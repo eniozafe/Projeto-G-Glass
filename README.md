@@ -1,2 +1,2 @@
-# Projeto-G-Glass
- feito em aula do cursoemvideo
+# ProjetoGlass
+ Feito em estudos com curso em vídeo
