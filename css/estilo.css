@@ -3,13 +3,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital@1&display=swap');
 @font-face {
 	font-family: 'FonteLogo';
-	src: url("../_fonts/bubblegum-sans-regular.otf");
+	src: url("../fonts/bubblegum-sans-regular.otf");
 }
 
 		body {
 			font-family: Arial;
 			background-size: 100%;
-			background-image: url("_imagens/fundo.jpg");
+			background-image: url("imagens/fundo.jpg");
 			color: rgba(0,0,0,1);
 		}
 
@@ -42,7 +42,7 @@
 		header#cabecalho {
 			border-bottom: 1px #606060 solid;
 			height: 150px;
-			background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 80px;
+			background: url("../imagens/glass-logo-peq.jpg") no-repeat 0px 80px;
 			position: relative;
 		}
 
